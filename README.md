@@ -10,3 +10,4 @@ pip install pydub
 winget install ffmpeg
 ffmpeg -version ##to verify version
 streamlit run assistive_ai_app.py
+
